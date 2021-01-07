@@ -1,6 +1,6 @@
 ### Dra python 캠프 ###
 ---
-## Pandas
+## 🐼Pandas
 ###### 작성자 21700583@handong.edu
 #### 강의 출처 : https://www.kaggle.com/learn/pandas
 #### 동영상 링크🎞
