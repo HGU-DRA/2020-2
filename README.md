@@ -11,9 +11,9 @@
 - [5.Data type, Replace.ipynb](https://youtu.be/0qqsagesLJA)
 - [6. Renaming & Combination.ipynb](https://youtu.be/9eLqdqvXPFg)
 
-### 실습 페이지
+#### 실습 페이지
 - [여기](https://www.kaggle.com/learn/pandas ) 서 각 강의에 맞는 exercise로 연습할 수 있습니다.
 - Tutorial을 한번 다 읽어야 exercise를 쉽게 할 수 있습니다.
 
 ---
-
+## Seaborn
