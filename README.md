@@ -9,7 +9,7 @@
 - [3. summary-functions-and-maps.ipynb](https://youtu.be/oUGHc9c7QNY)
 - [4. Grouping and sorting.ipynb](https://youtu.be/qcfEJ1rZ82M)
 - [5.Data type, Replace.ipynb](https://youtu.be/0qqsagesLJA)
-- [6. Renaming & Combination.ipynb](https://youtu.be/Kfyt34MSsLo)
+- [6. Renaming & Combination.ipynb](https://youtu.be/9eLqdqvXPFg)
 
 ### 실습 페이지
 - [여기](https://www.kaggle.com/learn/pandas ) 서 각 강의에 맞는 exercise로 연습할 수 있습니다.
