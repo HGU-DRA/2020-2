@@ -1,7 +1,7 @@
 ### Dra python 캠프 ###
 ---
 ## 🐼Pandas
-###### 작성자 21700583@handong.edu
+###### 작성자 : 이지현 21700583@handong.edu 
 #### 강의 출처 : https://www.kaggle.com/learn/pandas
 #### 동영상 링크🎞
 - [1. Creating, Reading and Writing.ipynb](https://youtu.be/Kfyt34MSsLo)
